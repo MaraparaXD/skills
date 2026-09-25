@@ -1,0 +1,31 @@
+{
+  "name": "local-design-skillstack",
+  "owner": { "name": "Claude Design Skillstack" },
+  "plugins": [
+    {
+      "name": "animation-components",
+      "source": "./animation-components",
+      "description": "Comprehensive animation and component libraries with React Spring, Magic UI, React Bits, AOS, Anime.js, and Lottie"
+    },
+    {
+      "name": "authoring-motion",
+      "source": "./authoring-motion",
+      "description": "Professional 3D authoring and motion graphics pipeline with Blender, Spline, Rive, and Substance 3D"
+    },
+    {
+      "name": "core-3d-animation",
+      "source": "./core-3d-animation",
+      "description": "Complete core 3D and animation stack with Three.js, GSAP, React Three Fiber, Framer Motion, and Babylon.js"
+    },
+    {
+      "name": "extended-3d-scroll",
+      "source": "./extended-3d-scroll",
+      "description": "Extended 3D graphics and smooth scroll stack with A-Frame, lightweight effects, PlayCanvas, PixiJS, Locomotive Scroll, and Barba.js"
+    },
+    {
+      "name": "meta-skills",
+      "source": "./meta-skills",
+      "description": "Integration patterns and modern web design guidelines for building cohesive 3D/animation experiences"
+    }
+  ]
+}
