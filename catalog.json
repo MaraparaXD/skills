@@ -1,0 +1,429 @@
+[
+  {
+    "id": "21st-ui",
+    "category": "frontend",
+    "path": "skills/frontend/21st-ui/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: 21st-ui. Review before use."
+  },
+  {
+    "id": "composition-patterns",
+    "category": "frontend",
+    "path": "skills/frontend/composition-patterns/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: composition-patterns. Review before use."
+  },
+  {
+    "id": "design-is",
+    "category": "frontend",
+    "path": "skills/frontend/design-is/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: design-is. Review before use."
+  },
+  {
+    "id": "impeccable",
+    "category": "frontend",
+    "path": "skills/frontend/impeccable/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: impeccable. Review before use."
+  },
+  {
+    "id": "react-best-practices",
+    "category": "frontend",
+    "path": "skills/frontend/react-best-practices/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: react-best-practices. Review before use."
+  },
+  {
+    "id": "react-native-skills",
+    "category": "frontend",
+    "path": "skills/frontend/react-native-skills/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: react-native-skills. Review before use."
+  },
+  {
+    "id": "react-view-transitions",
+    "category": "frontend",
+    "path": "skills/frontend/react-view-transitions/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: react-view-transitions. Review before use."
+  },
+  {
+    "id": "web-design-guidelines",
+    "category": "frontend",
+    "path": "skills/frontend/web-design-guidelines/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: web-design-guidelines. Review before use."
+  },
+  {
+    "id": "gsap-core",
+    "category": "frontend",
+    "path": "skills/frontend/gsap-core/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: gsap-core. Review before use."
+  },
+  {
+    "id": "gsap-frameworks",
+    "category": "frontend",
+    "path": "skills/frontend/gsap-frameworks/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: gsap-frameworks. Review before use."
+  },
+  {
+    "id": "gsap-performance",
+    "category": "frontend",
+    "path": "skills/frontend/gsap-performance/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: gsap-performance. Review before use."
+  },
+  {
+    "id": "gsap-plugins",
+    "category": "frontend",
+    "path": "skills/frontend/gsap-plugins/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: gsap-plugins. Review before use."
+  },
+  {
+    "id": "gsap-react",
+    "category": "frontend",
+    "path": "skills/frontend/gsap-react/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: gsap-react. Review before use."
+  },
+  {
+    "id": "gsap-scrolltrigger",
+    "category": "frontend",
+    "path": "skills/frontend/gsap-scrolltrigger/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: gsap-scrolltrigger. Review before use."
+  },
+  {
+    "id": "gsap-timeline",
+    "category": "frontend",
+    "path": "skills/frontend/gsap-timeline/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: gsap-timeline. Review before use."
+  },
+  {
+    "id": "gsap-utils",
+    "category": "frontend",
+    "path": "skills/frontend/gsap-utils/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing frontend skill: gsap-utils. Review before use."
+  },
+  {
+    "id": "make-plan",
+    "category": "orchestration",
+    "path": "skills/orchestration/make-plan/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing orchestration skill: make-plan. Review before use."
+  },
+  {
+    "id": "do",
+    "category": "orchestration",
+    "path": "skills/orchestration/do/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing orchestration skill: do. Review before use."
+  },
+  {
+    "id": "pathfinder",
+    "category": "orchestration",
+    "path": "skills/orchestration/pathfinder/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing orchestration skill: pathfinder. Review before use."
+  },
+  {
+    "id": "smart-explore",
+    "category": "orchestration",
+    "path": "skills/orchestration/smart-explore/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing orchestration skill: smart-explore. Review before use."
+  },
+  {
+    "id": "deploy-to-vercel",
+    "category": "devops",
+    "path": "skills/devops/deploy-to-vercel/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing devops skill: deploy-to-vercel. Review before use."
+  },
+  {
+    "id": "vercel-optimize",
+    "category": "devops",
+    "path": "skills/devops/vercel-optimize/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing devops skill: vercel-optimize. Review before use."
+  },
+  {
+    "id": "version-bump",
+    "category": "devops",
+    "path": "skills/devops/version-bump/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing devops skill: version-bump. Review before use."
+  },
+  {
+    "id": "babysit",
+    "category": "devops",
+    "path": "skills/devops/babysit/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing devops skill: babysit. Review before use."
+  },
+  {
+    "id": "oh-my-issues",
+    "category": "devops",
+    "path": "skills/devops/oh-my-issues/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing devops skill: oh-my-issues. Review before use."
+  },
+  {
+    "id": "mem-search",
+    "category": "knowledge",
+    "path": "skills/knowledge/mem-search/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing knowledge skill: mem-search. Review before use."
+  },
+  {
+    "id": "knowledge-agent",
+    "category": "knowledge",
+    "path": "skills/knowledge/knowledge-agent/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing knowledge skill: knowledge-agent. Review before use."
+  },
+  {
+    "id": "how-it-works",
+    "category": "knowledge",
+    "path": "skills/knowledge/how-it-works/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing knowledge skill: how-it-works. Review before use."
+  },
+  {
+    "id": "writing-guidelines",
+    "category": "knowledge",
+    "path": "skills/knowledge/writing-guidelines/SKILL.md",
+    "status": "legacy-review",
+    "description": "Existing knowledge skill: writing-guidelines. Review before use."
+  },
+  {
+    "id": "multi-agent-orchestrator",
+    "category": "orchestration",
+    "path": "skills/orchestration/multi-agent-orchestrator/SKILL.md",
+    "status": "curated",
+    "description": "Delegate independent engineering tasks to authorized local agents with bounded context."
+  },
+  {
+    "id": "token-optimizer",
+    "category": "orchestration",
+    "path": "skills/orchestration/token-optimizer/SKILL.md",
+    "status": "curated",
+    "description": "Reduce context consumption without sacrificing correctness."
+  },
+  {
+    "id": "backend-engineering",
+    "category": "engineering",
+    "path": "skills/engineering/backend-engineering/SKILL.md",
+    "status": "curated",
+    "description": "Design and implement maintainable Python/FastAPI services and REST APIs."
+  },
+  {
+    "id": "database-engineering",
+    "category": "engineering",
+    "path": "skills/engineering/database-engineering/SKILL.md",
+    "status": "curated",
+    "description": "Design PostgreSQL schemas, safe migrations and efficient SQL."
+  },
+  {
+    "id": "secure-coding",
+    "category": "security",
+    "path": "skills/security/secure-coding/SKILL.md",
+    "status": "curated",
+    "description": "Review and implement secure application code using threat modeling and OWASP practices."
+  },
+  {
+    "id": "devsecops-engineering",
+    "category": "security",
+    "path": "skills/security/devsecops-engineering/SKILL.md",
+    "status": "curated",
+    "description": "Build safe Docker and CI/CD pipelines with repeatable security controls."
+  },
+  {
+    "id": "ai-engineering",
+    "category": "ai",
+    "path": "skills/ai/ai-engineering/SKILL.md",
+    "status": "curated",
+    "description": "Build evaluated LLM applications, agents and RAG systems."
+  },
+  {
+    "id": "computer-vision",
+    "category": "ai",
+    "path": "skills/ai/computer-vision/SKILL.md",
+    "status": "curated",
+    "description": "Build and validate computer vision and image-based estimation pipelines."
+  },
+  {
+    "id": "ai-security",
+    "category": "security",
+    "path": "skills/security/ai-security/SKILL.md",
+    "status": "curated",
+    "description": "Threat-model and evaluate LLM agents and RAG systems defensively."
+  },
+  {
+    "id": "automated-testing",
+    "category": "engineering",
+    "path": "skills/engineering/automated-testing/SKILL.md",
+    "status": "curated",
+    "description": "Create effective unit, integration and browser end-to-end tests."
+  },
+  {
+    "id": "animation-components.skills.animated-component-libraries",
+    "category": "frontend",
+    "path": "plugins/animation-components/skills/animated-component-libraries/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: animated-component-libraries"
+  },
+  {
+    "id": "animation-components.skills.animejs",
+    "category": "frontend",
+    "path": "plugins/animation-components/skills/animejs/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: animejs"
+  },
+  {
+    "id": "animation-components.skills.lottie-animations",
+    "category": "frontend",
+    "path": "plugins/animation-components/skills/lottie-animations/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: lottie-animations"
+  },
+  {
+    "id": "animation-components.skills.react-spring-physics",
+    "category": "frontend",
+    "path": "plugins/animation-components/skills/react-spring-physics/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: react-spring-physics"
+  },
+  {
+    "id": "animation-components.skills.scroll-reveal-libraries",
+    "category": "frontend",
+    "path": "plugins/animation-components/skills/scroll-reveal-libraries/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: scroll-reveal-libraries"
+  },
+  {
+    "id": "authoring-motion.skills.blender-web-pipeline",
+    "category": "frontend",
+    "path": "plugins/authoring-motion/skills/blender-web-pipeline/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: blender-web-pipeline"
+  },
+  {
+    "id": "authoring-motion.skills.rive-interactive",
+    "category": "frontend",
+    "path": "plugins/authoring-motion/skills/rive-interactive/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: rive-interactive"
+  },
+  {
+    "id": "authoring-motion.skills.spline-interactive",
+    "category": "frontend",
+    "path": "plugins/authoring-motion/skills/spline-interactive/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: spline-interactive"
+  },
+  {
+    "id": "authoring-motion.skills.substance-3d-texturing",
+    "category": "frontend",
+    "path": "plugins/authoring-motion/skills/substance-3d-texturing/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: substance-3d-texturing"
+  },
+  {
+    "id": "core-3d-animation.skills.babylonjs-engine",
+    "category": "frontend",
+    "path": "plugins/core-3d-animation/skills/babylonjs-engine/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: babylonjs-engine"
+  },
+  {
+    "id": "core-3d-animation.skills.gsap-scrolltrigger",
+    "category": "frontend",
+    "path": "plugins/core-3d-animation/skills/gsap-scrolltrigger/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: gsap-scrolltrigger"
+  },
+  {
+    "id": "core-3d-animation.skills.motion-framer",
+    "category": "frontend",
+    "path": "plugins/core-3d-animation/skills/motion-framer/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: motion-framer"
+  },
+  {
+    "id": "core-3d-animation.skills.react-three-fiber",
+    "category": "frontend",
+    "path": "plugins/core-3d-animation/skills/react-three-fiber/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: react-three-fiber"
+  },
+  {
+    "id": "core-3d-animation.skills.threejs-webgl",
+    "category": "frontend",
+    "path": "plugins/core-3d-animation/skills/threejs-webgl/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: threejs-webgl"
+  },
+  {
+    "id": "extended-3d-scroll.skills.aframe-webxr",
+    "category": "frontend",
+    "path": "plugins/extended-3d-scroll/skills/aframe-webxr/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: aframe-webxr"
+  },
+  {
+    "id": "extended-3d-scroll.skills.barba-js",
+    "category": "frontend",
+    "path": "plugins/extended-3d-scroll/skills/barba-js/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: barba-js"
+  },
+  {
+    "id": "extended-3d-scroll.skills.lightweight-3d-effects",
+    "category": "frontend",
+    "path": "plugins/extended-3d-scroll/skills/lightweight-3d-effects/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: lightweight-3d-effects"
+  },
+  {
+    "id": "extended-3d-scroll.skills.locomotive-scroll",
+    "category": "frontend",
+    "path": "plugins/extended-3d-scroll/skills/locomotive-scroll/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: locomotive-scroll"
+  },
+  {
+    "id": "extended-3d-scroll.skills.pixijs-2d",
+    "category": "frontend",
+    "path": "plugins/extended-3d-scroll/skills/pixijs-2d/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: pixijs-2d"
+  },
+  {
+    "id": "extended-3d-scroll.skills.playcanvas-engine",
+    "category": "frontend",
+    "path": "plugins/extended-3d-scroll/skills/playcanvas-engine/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: playcanvas-engine"
+  },
+  {
+    "id": "meta-skills.skills.modern-web-design",
+    "category": "frontend",
+    "path": "plugins/meta-skills/skills/modern-web-design/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: modern-web-design"
+  },
+  {
+    "id": "meta-skills.skills.web3d-integration-patterns",
+    "category": "frontend",
+    "path": "plugins/meta-skills/skills/web3d-integration-patterns/SKILL.md",
+    "status": "legacy-review",
+    "description": "Optional animation/design plugin skill: web3d-integration-patterns"
+  }
+]
