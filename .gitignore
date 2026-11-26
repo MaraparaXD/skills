@@ -1,19 +1,14 @@
-# Arquivos de projetos (não são skills)
 *.zip
-
-# Segredos
 .env
 .env.*
+!.env.example
 *.pem
 *.key
-
-# Dependências e artefatos
-node_modules/
-__pycache__/
-*.pyc
 .venv/
-
-# Sistema
+__pycache__/
+.pytest_cache/
+*.pyc
 .DS_Store
 Thumbs.db
 desktop.ini
+node_modules/
