@@ -1,9 +1,14 @@
+*.zip
 .env
 .env.*
 !.env.example
+*.pem
+*.key
 .venv/
 __pycache__/
 .pytest_cache/
 *.pyc
 .DS_Store
+Thumbs.db
+desktop.ini
 node_modules/
